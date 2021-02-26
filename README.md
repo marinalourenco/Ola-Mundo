@@ -1,4 +1,4 @@
 # Ola, Mundo!
  Primeiro Repositorio
 
- Repositorio criado no curso em video
+ Repositorio criado no curso em vídeo
